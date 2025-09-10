@@ -11,7 +11,7 @@
 | Mês   | Dia  | Data | Atividade | Conteúdo                                                |
 |-------|------|------|-----------|---------------------------------------------------------|
 | Set   | Ter  | 09   | Aula 01   | [Apresentação, Linguagens Compiladas vs Interpretadas](aulas/aula01/aula01.md)                                                        |
-|       | Qui  | 11   | Aula 02   |                                                         |
+|       | Qui  | 11   | Aula 02   | [Modelo de Compilação C++, A função `main()`](aulas/aula02/aula02.md)                                                        |
 |       | Ter  | 16   | Aula 03   |                                                         |
 |       | Qui  | 18   | Aula 04   |                                                         |
 |       | Ter  | 23   | Aula 05   |                                                         |
