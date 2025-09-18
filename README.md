@@ -10,10 +10,10 @@
 
 | Mês   | Dia  | Data | Atividade | Conteúdo                                                |
 |-------|------|------|-----------|---------------------------------------------------------|
-| Set   | Ter  | 09   | Aula 01   | [Apresentação, Linguagens Compiladas vs Interpretadas](aulas/aula01/aula01.md)                                                        |
-|       | Qui  | 11   | Aula 02   | [Modelo de Compilação C++, A função `main()`](aulas/aula02/aula02.md)                                                        |
-|       | Ter  | 16   | Aula 03   |                                                         |
-|       | Qui  | 18   | Aula 04   |                                                         |
+| Set   | Ter  | 09   | Aula 01   | [Apresentação, Linguagens Compiladas vs Interpretadas](aulas/aula01/aula01.md)|
+|       | Qui  | 11   | Aula 02   | [Modelo de Compilação C++, A função `main()`](aulas/aula02/aula02.md)|
+|       | Ter  | 16   | Aula 03   | [Variáveis, Constantes e Ponteiros](./aulas/aula03/aula03.md)|
+|       | Qui  | 18   | Aula 04   | [Controle de Fluxo, funções, arrays](./aulas/aula04/aula04.md)|
 |       | Ter  | 23   | Aula 05   |                                                         |
 |       | Qui  | 25   | Aula 06   |                                                         |
 |       | Ter  | 30   | Aula 07   |                                                         |
