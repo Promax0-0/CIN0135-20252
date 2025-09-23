@@ -40,7 +40,7 @@
 |       | Ter  | 09   | Aula 25   |                                                         |
 |       | Qui  | 11   | Prova     | **PROVA 2**                                             | 
 |       | Ter  | 16   | Aula 26   |                                                         |
-|       | Qui  | 18   | Prova     | **PROVA FIAL**                                          |
+|       | Qui  | 18   | Prova     | **PROVA FINAL**                                          |
 
 
 - 2 Unidades
